@@ -5,17 +5,12 @@
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Analise e Desenvolvimento de Sistemas ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Rafael Ricardo de Oliveira Goulart......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
 
 # Estrutura do Documento
 
