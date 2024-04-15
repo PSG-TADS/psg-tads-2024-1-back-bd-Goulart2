@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\source\\repos\\BDGou\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A576DA37-826F-4D3E-86EF-74C8D644817E}|BDGou\\BDGou.csproj|c:\\users\\rafae\\source\\repos\\bdgou\\bdgou\\locadoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A576DA37-826F-4D3E-86EF-74C8D644817E}|BDGou\\BDGou.csproj|solutionrelative:bdgou\\locadoracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocadoraContext.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\BDGou\\BDGou\\LocadoraContext.cs",
+              "RelativeDocumentMoniker": "BDGou\\LocadoraContext.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\BDGou\\BDGou\\LocadoraContext.cs",
+              "RelativeToolTip": "BDGou\\LocadoraContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:30:56.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
